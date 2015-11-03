@@ -426,4 +426,5 @@ void Programa::leeOpcion()
         salir();
         break;
     }
+    recorridoDeLaLista();
 }
